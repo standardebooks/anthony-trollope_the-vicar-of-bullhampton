@@ -35,29 +35,30 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85026951</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The vicar of a rural parish is the epicenter for conflicts in love, law, and church affairs in his Wiltshire town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Frank Fenwick is in many ways a model clergyman. He takes seriously the cure of souls in his Wiltshire parish, extending to the material as well as spiritual well-being of his flock, while upholding his convictions without doctrinaire excess. But in his ministry, as well as his friendships, his good intentions embroil him in unwonted controversy. The poor miller’s family is plunged into moral and legal difficulties, the romantic interest of his best friend—the local squire—is beset with obstacles, and conflict with the dissenting chapel deepens. And in each case “our vicar” has some degree of culpability.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; interest in matters ecclesiastical is famously bound up with his &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt; novels. While the church setting in those books is prominent, the issues arising are mostly of a social nature, whereas in &lt;i&gt;The Vicar of Bullhampton&lt;/i&gt; the conflicts and controversies are more overtly moral and theological. How should the moral status of the miller’s wayward adult children be judged? Is it right that a young woman should be pressured to wed against her will and better judgment? Is it really the vicar’s “broad church” sensibilities that incline him to seek peace with the local dissenting clergyman, or rather his enmity with the local Marquis who has gifted their new chapel?&lt;/p&gt;
+			&lt;p&gt;Unusually, Trollope provided a preface to this novel, judging that his treatment of the “fallen woman” subplot—revolving around Carry Brattle, the daughter of the thoroughly “pagan” but virtuous miller—could be criticized for being overly sympathetic. For this reason, the novel has often become identified with this trope, although even Trollope acknowledged in his autobiography that Carry was actually a relatively minor character in the book.&lt;/p&gt;
+			&lt;p&gt;As Frank Fenwick is fond of repeating, however, “It is not easy to set crooked things straight.” Yet he cannot seem to stop himself from repeatedly making the attempt. Through varied plot lines, Trollope weaves his characteristic psychological insight, treating themes of loyalty and hypocrisy, constancy in love, and forgiveness and its lack. As Michael Sadlier commented, &lt;i&gt;The Vicar of Bullhampton&lt;/i&gt; “has a sure title to enduring reputation,” and shows that Trollope, “who is in many ways aggressively a product of his age, may yet, in psychological judgments, forecast the standards of another, later period.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26541</dc:source>
 		<dc:source>https://books.google.com/books?id=3i4JnKWX52sC</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Vicar_of_Bullhampton</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-vicar-of-bullhampton</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Valentine Cameron Prinsep</dc:contributor>
+		<meta property="file-as" refines="#artist">Prinsep, Valentine Cameron</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Valentine_Cameron_Prinsep</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87108130</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
